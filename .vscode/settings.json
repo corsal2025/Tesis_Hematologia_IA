@@ -1,0 +1,19 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "material-icon-theme.folders.color": "#d19a66",
+  "material-icon-theme.folders.associations": {
+    "data": "database",
+    "modelos_guardados": "package",
+    "src": "src"
+  },
+  "material-icon-theme.folders.colors": {
+    "data": "#00BCD4",
+    "modelos_guardados": "#9C27B0",
+    "src": "#8BC34A"
+  },
+  "workbench.colorCustomizations": {
+    "statusBar.noFolderBackground": "#0b5a7d",
+    "window.activeBorder": "#000000",
+    "window.inactiveBorder": "#000000"
+  }
+}
